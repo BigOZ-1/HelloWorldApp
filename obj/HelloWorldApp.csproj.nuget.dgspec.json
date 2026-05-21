@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ozzie\\OneDrive\\Documents\\.net project\\HelloWorldApp\\HelloWorldApp.csproj": {}
+    "C:\\Projects\\HelloWorldApp\\HelloWorldApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ozzie\\OneDrive\\Documents\\.net project\\HelloWorldApp\\HelloWorldApp.csproj": {
+    "C:\\Projects\\HelloWorldApp\\HelloWorldApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ozzie\\OneDrive\\Documents\\.net project\\HelloWorldApp\\HelloWorldApp.csproj",
+        "projectUniqueName": "C:\\Projects\\HelloWorldApp\\HelloWorldApp.csproj",
         "projectName": "HelloWorldApp",
-        "projectPath": "C:\\Users\\ozzie\\OneDrive\\Documents\\.net project\\HelloWorldApp\\HelloWorldApp.csproj",
+        "projectPath": "C:\\Projects\\HelloWorldApp\\HelloWorldApp.csproj",
         "packagesPath": "C:\\Users\\ozzie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ozzie\\OneDrive\\Documents\\.net project\\HelloWorldApp\\obj\\",
+        "outputPath": "C:\\Projects\\HelloWorldApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ozzie\\AppData\\Roaming\\NuGet\\NuGet.Config"
