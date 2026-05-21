@@ -1,0 +1,7 @@
+C:\Users\ozzie\OneDrive\Documents\.net project\HelloWorldApp\publish\HelloWorldApp.exe
+C:\Users\ozzie\OneDrive\Documents\.net project\HelloWorldApp\publish\appsettings.Development.json
+C:\Users\ozzie\OneDrive\Documents\.net project\HelloWorldApp\publish\appsettings.json
+C:\Users\ozzie\OneDrive\Documents\.net project\HelloWorldApp\publish\HelloWorldApp.dll
+C:\Users\ozzie\OneDrive\Documents\.net project\HelloWorldApp\publish\HelloWorldApp.deps.json
+C:\Users\ozzie\OneDrive\Documents\.net project\HelloWorldApp\publish\HelloWorldApp.runtimeconfig.json
+C:\Users\ozzie\OneDrive\Documents\.net project\HelloWorldApp\publish\HelloWorldApp.pdb
